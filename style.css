@@ -1,0 +1,24 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: #D2D0A0;
+    background-color: #537D5D;
+}
+p{
+    width: 60%;
+}
+#carrossel1-Slides{
+    width: 60%;
+}
+#carrossel2-Slides{
+    width: 60%;
+}
+#carrossel3-Slides{
+    width: 60%;
+}
+#carrossel4-Slides{
+    width: 60%;
+}
+hr{
+    width: 20%;
+    color: rgb(13,76,55);
+}
